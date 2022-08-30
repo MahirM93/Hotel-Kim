@@ -112,7 +112,7 @@ button:hover{
 
 .rezervacija{
     display: flex;
-    background-color: #ea4444;
+    background-color: #ae181b;
 }
 form{
     text-align: center;
@@ -130,4 +130,19 @@ form{
     display: block;
     display: inline-block;
     text-align: center;
+    text-transform: uppercase;
+    color: #fff;
 }
+
+input[type=submit] {
+    background-color: #ae181b;
+    border: none;
+    color: #fff;
+    padding: 15px 30px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: 2px solid #fff;
+    font-size: 20px;
+    text-transform: uppercase;
+  }
