@@ -146,3 +146,54 @@ input[type=submit] {
     font-size: 20px;
     text-transform: uppercase;
   }
+
+  .sekcija3{
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+  }
+  .sekcija3 img{
+width: 45%;
+height: 35%;
+display: flex;
+float: left;
+margin-right: 20px;
+  }
+  .sekcija3 h4{
+    color: darkgrey;
+  }
+  .sekcija3 p{
+    color: darkgrey;
+  }
+
+
+
+  .prvi{
+    width: 75%;
+    height: auto;
+    position: absolute;
+   
+    
+  }
+  .kutija{
+    width: 25%;
+    height: auto;
+  float: left;
+    
+    margin-left: 5%;
+  }
+  .prvi .kutija h3{
+   
+    color: #ae181b;
+  }
+  .prvi .kutija p{
+    color: darkgrey;
+  }
+ .sekcija4 h1{
+    color: #ae181b;
+    font-size: 25px; margin-left: 5%;
+ }
