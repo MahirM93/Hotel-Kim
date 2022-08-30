@@ -108,3 +108,26 @@ width: 100%;
 button:hover{
     border: none;
 }
+
+
+.rezervacija{
+    display: flex;
+    background-color: #ea4444;
+}
+form{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+ 
+    margin-bottom: 20px;
+}
+.rezervacija h2{
+    margin-left: 20px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.moj{
+    display: block;
+    display: inline-block;
+    text-align: center;
+}
