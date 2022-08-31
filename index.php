@@ -69,6 +69,7 @@
 </div>
 </section>
 <section class="prvi">
+
 <section class="sekcija3">
 
 <div class="tekst">
@@ -92,7 +93,7 @@
 <section class="sekcija4">
     <h1>Specijalna ponuda</h1>
     <div class="kutija">
-        <h3>1.Specijalna ponuda smjestaja</h3><br>
+        <h3>1.Specijalna ponuda <br>smjestaja</h3><br>
         <p>Platite tri noćenja po punoj cijeni četvrta noć gratis. 
             Ponuda uključuje: Noćenje sa doručkom, besplatan WiFi u svim dijelovima 
             objekta, besplatan parking prostor u sklopu hotela, besplatan prijevoz do 
@@ -100,22 +101,47 @@
             ovu priliku da posjetite Sarajevo i Ilidžu i uživate u bogatoj turističkoj ponudi.</p>
 </div>
 <div class="kutija">
-        <h3>1.Specijalna ponuda smjestaja</h3><br>
-        <p>Platite tri noćenja po punoj cijeni četvrta noć gratis. 
-            Ponuda uključuje: Noćenje sa doručkom, besplatan WiFi u svim dijelovima 
-            objekta, besplatan parking prostor u sklopu hotela, besplatan prijevoz do 
-            aerodroma i još niz pogodnosti. Kontaktirajte nas za rezervacije i iskoristite 
-            ovu priliku da posjetite Sarajevo i Ilidžu i uživate u bogatoj turističkoj ponudi.</p>
+        <h3>2.  Posebna ponuda za<br>
+turističke agencije
+</h3><br>
+        <p>Do kraja 2019. godine imamo poseban program saradnje kroz koju ćemo Vašoj agenciji odobriti dodatne pogodnosti kroz popuste, posebne cijene, gratis usluge i slično. Kontaktirajte nas uz napomenu da ste zainteresovani za naš poseban program saradnje kako bi Vam poslali ponudu.
+</p>
 </div>
 <div class="kutija">
-        <h3>1.Specijalna ponuda smjestaja</h3><br>
-        <p>Platite tri noćenja po punoj cijeni četvrta noć gratis. 
-            Ponuda uključuje: Noćenje sa doručkom, besplatan WiFi u svim dijelovima 
-            objekta, besplatan parking prostor u sklopu hotela, besplatan prijevoz do 
-            aerodroma i još niz pogodnosti. Kontaktirajte nas za rezervacije i iskoristite 
-            ovu priliku da posjetite Sarajevo i Ilidžu i uživate u bogatoj turističkoj ponudi.</p>
+        <h3>3. Posebna svadbena<br> ponuda
+</h3><br>
+        <p>Dragi mladenci, do kraja godine imamo posebnu ponudu gdje za svadbe u mjesecu septembru, oktobru, novembru i decembru odobravamo posebne pogodnosti po Vašim željama. Očekujemo Vas na kahvi kako bi zajedno napravili najbolji svadbeni program za Vas.
+</p>
 </div>
 </section>
+
+
+
+<section>
+    <div class="ponude">
+        <div class="wifi">
+            <img src="wifi.png">
+            <h2>Besplatni wifi</h2>
+            <p>Dostupan u cijelom objektu</p>
+        </div>
+        <div class="wifi">
+            <img src="check.png">
+            <h2>Recepcija</h2>
+            <p>Recepcija 24h 7/7</p>
+        </div>
+        <div class="wifi">
+            <img src="parking.png">
+            <h2>Besplatan parking</h2>
+            <p>Besplatan parking za sve goste hotela</p>
+        </div>
+        <div class="wifi">
+            <img src="bel.png">
+            <h2>Online rezervacija</h2>
+            <p>Online rezervacija soba i apartmana</p>
+        </div>
+    </div>
+</section>
+
 
 
 </section>
