@@ -40,7 +40,7 @@ body{
 content: '';
 height: 2px;
 width: 0;
-background: #86feff;
+background: #ae181b;
 position: absolute;
 left: 0;
 bottom: -10px;
@@ -82,7 +82,7 @@ button{
     margin: 20px 10px;
     border-radius: 25px;
     font-weight: bold;
-    border: 2px solid #86feff;
+    border: 2px solid #ae181b;
     background: transparent;
     color: black;
     cursor: pointer;
@@ -91,7 +91,7 @@ button{
 }
 
 span{
-    background: #86feff;
+    background: #ae181b;
     height: 100%;
     width: 0;
     border-radius: 25px;
@@ -238,3 +238,48 @@ text-align: center;
  .wifi p{
   color: #fff;
  }
+
+
+
+
+ .kutija33{
+  text-align: left;
+  display: flex;
+ 
+
+ }
+ .kutija33 h1{
+text-transform: uppercase;
+font-size: 35px;
+color: #ae181b;
+margin-left: 5%;
+text-align: left;
+ }
+ .kutija33 p{
+  text-align: left;
+ }
+
+ .kutija31{
+  text-align: left;
+  width: 35%;
+  background-color:rgb(207, 207, 207);
+  float: left;
+    height: 400px;
+     margin-bottom: 25px;
+ }
+ .Slika img{
+  width: 65%;
+  height: 400px;
+
+ }
+ .kutija31 h1{
+  text-transform: uppercase;
+  color: #ae181b;
+  text-align: center;
+  font-size: 35px;
+ }
+ .kutija31  p{
+  margin-left: 15px;
+  color: rgb(128, 128, 128);
+ }
+

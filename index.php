@@ -143,6 +143,24 @@ turističke agencije
 </section>
 
 
+<section>
+    <div class="kutija33">
+<h1>Sobe i apartmani</h1><br>
+<p><i>Mogucnost odabira soba.</i></p>
+</div>
+<div class="kutija31">
+    <h1>Apartmani</h1>
+    <p>Apartmani sa velikim bračnim krevetom i dnevnim<br> boravkom. Prostrani i udobni. .<br>
+-------Bespaltni Wifi<br>
+-------Posluga u Sobi<br>
+-------Ugrađen Sef<br>
+-------Parking</p><br>
+<button>Dugme</button>
+</div>
+<div class="Slika">
+    <img src="44.jpg">
+</div>
+</section>
 
 </section>
 </body>
