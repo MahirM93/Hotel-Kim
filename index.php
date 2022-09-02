@@ -188,6 +188,17 @@ turističke agencije
     </div>
 </section>
 </section>
+<footer>
+    <img src="logo.png">
+    <p>info@hotelbosna.ba<br><br>
++387 33 771 340<br><br>
++387 62 482 298  |  +387 61 135 590 ( Viber i Whatsapp )<br><br>
+Butmirska cesta 8<br><br>
+71210 Ilidža - SARAJEVO</p>
+</footer>
+<div class="rad">
+    <p>Copyright © All right reserved. Design By: Mesanovic Mahir</p>
+</div>
 </body>
 
 
