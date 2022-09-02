@@ -146,7 +146,7 @@ turističke agencije
 <section>
     <div class="kutija33">
 <h1>Sobe i apartmani</h1><br>
-<p><i>Mogucnost odabira soba.</i></p>
+
 </div>
 <div class="kutija31">
     <h1>Apartmani</h1>
@@ -162,6 +162,31 @@ turističke agencije
 </div>
 </section>
 
+
+
+
+<section>
+    <div class="sve">
+    <div class="km1">
+        <img src="w.jpg">
+    </div>
+    <div class="km2">
+        <h1>Dvokrevetna soba</h1><br>
+        <p>Bračni krevet ili dva odvojena kreveta. Svejedno je koju kombinaciju birate udoban boravak je zagarantovan. </p>
+        <button>Rezervisi sobu</button>
+    </div>
+    <div class="km1">
+        <img src="t.jpg">
+    </div>
+    <div class="km2">
+        <h1>Trokrevetna soba</h1><br>
+        <p>Odlična kombinacija za porodicu ili skupinu prijatelja.
+ </p>
+        <button>Rezervisi sobu</button>
+    </div>
+
+    </div>
+</section>
 </section>
 </body>
 
