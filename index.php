@@ -7,8 +7,8 @@
 <header>
 
 <div class="banner">
-    <div class="navbar">
-        <img src="logo.png"class="logo">
+    <div class="navbar"><a href="index.php">
+        <img src="logo.png"class="logo"></a>
         <ul>
             <li><a href="#">Pocetna</a></li>
             <li><a href="#">Smjestaj</a></li>

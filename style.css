@@ -262,7 +262,7 @@ text-align: left;
  .kutija31{
   text-align: left;
   width: 35%;
-  background-color:rgb(207, 207, 207);
+  background-color:rgb(255, 246, 246);
   float: left;
     height: 400px;
      margin-bottom: 25px;
@@ -336,5 +336,9 @@ height: 100px;
  .rad{
   text-align: center;
   font-size: 10px;
+ }
+
+ button .b1{
+  
  }
 
