@@ -2,9 +2,19 @@
 <head>
 <title>Hotel</title>
 <link rel="stylesheet"href="style.css">
+<script src="script.js"defer></script>
 </head>
 
 <body>
+    <div id="overlay">
+    <div id="mobile-menu"class="mobile-main-menu">
+        <ul>
+        <li><a href="index.php">Pocetna</a></li>
+            <li><a href="#">Smjestaj</a></li>
+            <li><a href="#">Restorani</a></li>
+            <li><a href="#">O nama</a></li>
+            <li><a href="#">Kontakt</a></li>
+        </ul></div>
 <header>
 
 <div class="banner">
@@ -30,6 +40,16 @@
 </div>
 
 </header>
+
+<!--Navigacija mobilna-->
+<button id="menu-btn"class="hamburger"type="button">
+    <span class="hamburger-top"></span>
+    <span class="hamburger-middle"></span>
+    <span class="hamburger-bottom"></span>
+</button>
+
+
+
 <section class="section2">
 
 <div class="rezervacija">
