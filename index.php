@@ -4,22 +4,6 @@
 <link rel="stylesheet"href="style.css">
 </head>
 
-<?php
-//Procesuiraj formu
-if(isset($_POST['date'])){
-    require "rezervacija.php";
-    echo $_REV->save($_POST['date'],$_POST['name'],$_POST['email']);
-    "<div>OK</div>":"<div>".$_RSV->error."</div>";
-}
-
-
-?>
-
-
-
-
-
-
 <body>
 <header>
 
