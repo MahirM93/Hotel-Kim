@@ -3,6 +3,23 @@
 <title>Hotel</title>
 <link rel="stylesheet"href="style.css">
 </head>
+
+<?php
+//Procesuiraj formu
+if(isset($_POST['date'])){
+    require "rezervacija.php";
+    echo $_REV->save($_POST['date'],$_POST['name'],$_POST['email']);
+    "<div>OK</div>":"<div>".$_RSV->error."</div>";
+}
+
+
+?>
+
+
+
+
+
+
 <body>
 <header>
 
@@ -155,7 +172,7 @@ turističke agencije
 -------Posluga u Sobi<br>
 -------Ugrađen Sef<br>
 -------Parking</p><br>
-<button>Dugme</button>
+<button>Rezervisi sobu</button>
 </div>
 <div class="Slika">
     <img src="44.jpg">
